@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\bin\Debug\net7.0\LogicalOperators.exe
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\bin\Debug\net7.0\LogicalOperators.deps.json
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\bin\Debug\net7.0\LogicalOperators.runtimeconfig.json
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\bin\Debug\net7.0\LogicalOperators.dll
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\bin\Debug\net7.0\LogicalOperators.pdb
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\LogicalOperators.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\LogicalOperators.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\LogicalOperators.AssemblyInfo.cs
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\LogicalOperators.dll
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\refint\LogicalOperators.dll
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\LogicalOperators.pdb
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\LogicalOperators.genruntimeconfig.cache
+C:\WildSchoul_Formation\S02\Quete\LogicalOperators\obj\Debug\net7.0\ref\LogicalOperators.dll
