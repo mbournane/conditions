@@ -6,11 +6,14 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Entrez une valeur minimum: ");
-        int minValue = Int32.Parse(Console.ReadLine());
+        int firstValue = Int32.Parse(Console.ReadLine());
         
         
         Console.WriteLine("Entrez une valeur maximum: ");
-        int maxValue = Int32.Parse(Console.ReadLine());
+        int secendValue = Int32.Parse(Console.ReadLine());
+
+        int minValue = Math.Min(firstValue, secendValue);
+         int maxValue = Math.Max(firstValue, secendValue);
 
         Console.WriteLine("Entrez une valeur entre :" + minValue + " et " +maxValue);
         int intValue = Int32.Parse(Console.ReadLine());
